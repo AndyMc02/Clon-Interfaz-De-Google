@@ -2,9 +2,9 @@
 
 ## ÍNDICE
 
-* [1. Intro](#)
-* [2. ¿Qué constuí?](#)
-* [3. Objetivo del proyecto](#)
+* [1. Intro](https://github.com/AndyMc02/Clon-Interfaz-De-Google/blob/main/README.md#1-intro)
+* [2. ¿Qué constuí?](https://github.com/AndyMc02/Clon-Interfaz-De-Google/blob/main/README.md#2-qu%C3%A9-constu%C3%AD)
+* [3. Objetivo del proyecto](https://github.com/AndyMc02/Clon-Interfaz-De-Google/blob/main/README.md#3-objetivo-del-proyecto)
 
 ****
 
